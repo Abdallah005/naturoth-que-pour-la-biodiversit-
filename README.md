@@ -7,3 +7,5 @@ Technologies Utilisées Frontend: HTML, CSS, JavaScript Backend: PHP, MySQL API:
 Installation à venir
 
 Utilisation à venir
+
+membre de groupe: Abdallah Bouaied, Jonathan Gromat, Karim Hamzaoui
